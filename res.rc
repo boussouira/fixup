@@ -1,0 +1,2 @@
+1 ICON "Icons/MAINICON.ico"
+//qt.pro => "RC_FILE = res.rc"

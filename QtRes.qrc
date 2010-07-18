@@ -1,0 +1,19 @@
+<RCC>
+	<qresource prefix="/WindowIcon" />
+	<qresource prefix="/" >
+		<file>Icons/MainForm.png</file>
+		<file>Icons/autoruns.png</file>
+		<file>Icons/ABOUTICON.png</file>
+		<file>Icons/IEICON.png</file>
+		<file>Icons/NOTFOUND.png</file>
+		<file>Icons/REMOVEICON.png</file>
+		<file>Icons/SCANICON.png</file>
+		<file>Icons/SETTINGSICON.png</file>
+		<file>Icons/WINDOWSICON.png</file>
+		<file>Icons/CHECKALL.png</file>
+		<file>Icons/REFRESH.png</file>
+		<file>Icons/ADD.png</file>
+		<file>Icons/EDIT.png</file>
+		<file>Icons/DELETE.png</file>
+	</qresource>
+</RCC>
